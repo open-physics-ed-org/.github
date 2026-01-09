@@ -13,12 +13,12 @@
 
 We are actively developing and deploying resources for:
 - Introductory Mechanics
-- Electromagnetism
 - Classical Mechanics ([Modern Classical Mechanics](https://open-physics-ed-org.github.io/modern-classical-mechanics/))
 - Advanced Electromagnetism
-- Mathematical Methods
+- Mathematical Methods ([Modern Mathematical Methods](https://open-physics-ed-org.github.io/modern-classical-mechanics/))
 
 In the future, we plan to expand to:
+- Introductory Electromagnetism
 - Quantum Physics
 - Modern Physics
 - Statistical Mechanics
